@@ -50,6 +50,11 @@ Has Failing Student: True
 Has High Scorer: True
 Class Status: Needs Attention
 
+## 🚀 Future Improvements
+Add user input instead of hardcoded data
+Save results to a file
+Create a simple UI or web version
+
 ## 👨‍💻 Author
 Xavier Rosales  
 GitHub: https://github.com/xgrantrosales
